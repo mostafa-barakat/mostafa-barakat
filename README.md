@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I'm Mostafa Barakat
 
-<!--
-**mostafa-barakat/mostafa-barakat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Laravel | Vue | Nuxt
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Full Stack Developer passionate about building modern web applications and digital solutions that solve real-world problems.
+
+I specialize in developing:
+
+Scalable web applications
+RESTful APIs
+Modern and responsive UI/UX
+Clean and maintainable code
+
+
+🛠️ Tech Stack
+Laravel
+PHP
+Vue.js / Nuxt.js
+JavaScript (ES6+)
+MySQL
+TailwindCSS
+Bootstrap
+
+📂 Projects
+
+Here you will find:
+
+SaaS platforms
+Admin dashboards
+API-based systems
+Personal & client projects
+
+📫 Contact
+
+Feel free to reach out for collaborations or freelance work.
