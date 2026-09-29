@@ -1,37 +1,66 @@
-👋 Hi, I'm Mostafa Barakat
+# 👋 Hi, I'm Mostafa Barakat
 
-💻 Full Stack Developer | Laravel | Vue | Nuxt
+## Full-Stack Software Engineer
 
-🚀 About Me
+I build scalable and production-ready web applications using Laravel, Vue.js, and Nuxt.js.
 
-I am a Full Stack Developer passionate about building modern web applications and digital solutions that solve real-world problems.
-
-I specialize in developing:
-
-Scalable web applications
-RESTful APIs
-Modern and responsive UI/UX
-Clean and maintainable code
+I focus on building complete software solutions including:
+- Backend APIs
+- Modern frontend applications
+- Database architecture
+- Authentication & authorization
+- Deployment workflows
 
 
-🛠️ Tech Stack
-Laravel
-PHP
-Vue.js / Nuxt.js
-JavaScript (ES6+)
-MySQL
-TailwindCSS
-Bootstrap
+## 🚀 What I Build
 
-📂 Projects
+- Full-stack web applications
+- RESTful APIs
+- SaaS platforms
+- Admin dashboards
+- Business management systems
 
-Here you will find:
 
-SaaS platforms
-Admin dashboards
-API-based systems
-Personal & client projects
+## 🛠 Tech Stack
 
-📫 Contact
+### Backend
+- PHP
+- Laravel
+- REST APIs
+- Laravel Sanctum
+- MySQL
 
-Feel free to reach out for collaborations or freelance work.
+### Frontend
+- Vue.js
+- Nuxt.js
+- JavaScript (ES6+)
+- Tailwind CSS
+
+### DevOps & Tools
+- Linux
+- Docker
+- Nginx
+- Git
+- GitHub Actions
+- CI/CD
+
+
+## 📌 Featured Projects
+
+### 🛒 SouqHub
+Multi-vendor e-commerce platform built with Laravel and modern frontend technologies.
+
+### 💈 Barber Zone
+SaaS management platform for barber businesses.
+
+### 🌐 BarakatDev
+Personal developer portfolio built with modern web technologies.
+
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/mostafa-barakat-258311227
+
+Portfolio:
+Coming soon
