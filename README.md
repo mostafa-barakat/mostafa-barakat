@@ -51,7 +51,29 @@ I focus on building complete software solutions including:
 Multi-vendor e-commerce platform built with Laravel and modern frontend technologies.
 
 ### 💈 Barber Zone
-SaaS management platform for barber businesses.
+
+A SaaS management platform for barber businesses.
+
+Role:
+Full-Stack Developer
+
+Built with:
+
+Backend:
+Laravel REST API
+
+Frontend:
+Vue.js Dashboard
+
+Features:
+- Business management
+- User roles
+- Appointment management
+- Dashboard analytics
+- Secure authentication
+
+🔒 Source code is private due to commercial ownership.
+
 
 ### 🌐 BarakatDev
 
