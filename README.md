@@ -54,7 +54,14 @@ Multi-vendor e-commerce platform built with Laravel and modern frontend technolo
 SaaS management platform for barber businesses.
 
 ### 🌐 BarakatDev
-Personal developer portfolio built with modern web technologies.
+
+Full-stack personal portfolio platform.
+
+Frontend:
+Nuxt.js
+
+Backend:
+Laravel REST API
 
 
 ## 📫 Connect With Me
