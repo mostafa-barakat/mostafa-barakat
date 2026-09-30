@@ -54,25 +54,22 @@ Multi-vendor e-commerce platform built with Laravel and modern frontend technolo
 
 A SaaS management platform for barber businesses.
 
-Role:
-Full-Stack Developer
-
 Built with:
-
-Backend:
-Laravel REST API
-
-Frontend:
-Vue.js Dashboard
+- Laravel REST API
+- Vue/Nuxt Dashboard
 
 Features:
-- Business management
-- User roles
-- Appointment management
-- Dashboard analytics
-- Secure authentication
+- Booking management
+- Inventory
+- Employees
+- Reports
+- AI insights
 
-🔒 Source code is private due to commercial ownership.
+🔒 Source code private due to commercial ownership.
+
+📄 Case Study:
+salwni.vercel.app
+
 
 
 ### 🌐 BarakatDev
